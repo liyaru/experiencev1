@@ -1,0 +1,8 @@
+public class fi{
+ private int a;
+ private int b;
+ publiv fi(){
+ a = 0;
+ b = 0;
+ System.out.println("hello world");
+}
